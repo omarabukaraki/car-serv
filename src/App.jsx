@@ -1,10 +1,11 @@
 import './App.css';
+import Header from './sections/Header/Header';
 
 function App() {
   return (
-   <div>
-     <h1 className='bg-black'>omar</h1>
-   </div>
+   <>
+   <Header/>
+   </>
   );
 }
 
