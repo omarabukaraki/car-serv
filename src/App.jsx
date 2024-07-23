@@ -1,5 +1,6 @@
 import './App.css';
-import {Header,Slider,AboutUs} from './sections/index'
+import {Header,Slider,AboutUs, Services} from './sections/index'
+
 
 function App() {
   return (
@@ -7,6 +8,7 @@ function App() {
    <Header/>
    <Slider/>
    <AboutUs/>
+   <Services/>
    <div className='h-96'></div>
    </>
   );
