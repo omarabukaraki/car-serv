@@ -74,7 +74,7 @@ const NavBar = () => {
             </li>
 
             <li>
-              <div className='flex place-items-center bg-red-600 w-56 p-10 text-white font-bold h-20 flex  justify-center text-base uppercase'>
+              <div className='place-items-center bg-red-600 w-56 p-10 text-white font-bold h-20 flex  justify-center text-base uppercase'>
                 Get A Quote
                 <Icon.ArrowRight className='ml-4' />
               </div>
