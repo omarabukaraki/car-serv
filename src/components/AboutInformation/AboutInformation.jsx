@@ -9,8 +9,7 @@ const AboutInformation = () => {
         <img className="w-full" src={aboutImg} alt="" />
         <div className="absolute sm:w-56 w-32 sm:h-36 h-24 -top-6 -right-6 bg-gray-950/15 p-2 pt-4">
           <p className="text-white font-bold sm:text-2xl text-lg text-center">
-            {" "}
-            <span className="sm:text-6xl text-3xl ">15</span> Years <br />{" "}
+            <span className="sm:text-6xl text-3xl ">15</span> Years <br />
             Experience
           </p>
         </div>
