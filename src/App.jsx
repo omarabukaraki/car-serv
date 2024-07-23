@@ -1,12 +1,13 @@
 import './App.css';
-import Header from './sections/Header/Header';
-import Slider from './sections/Slider/Slider';
+import {Header,Slider,AboutUs} from './sections/index'
 
 function App() {
   return (
    <>
    <Header/>
    <Slider/>
+   <AboutUs/>
+   <div className='h-96'></div>
    </>
   );
 }
