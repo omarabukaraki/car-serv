@@ -9,6 +9,9 @@ module.exports = {
       colors: {
         'regal-gray': '#f2f2f2',
       },
+      backgroundImage: {
+       
+      }
     },
   },
   plugins: [],
