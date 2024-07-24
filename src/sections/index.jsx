@@ -4,3 +4,4 @@ export {default as AboutUs} from './AboutUs/AboutUs';
 export {default as Services} from './Services/Services';
 export {default as Technicians} from './Technicians/Technicians';
 export {default as Testimonial} from'./Testimonial/Testimonial';
+export {default as Footer} from'./Footer/Footer';

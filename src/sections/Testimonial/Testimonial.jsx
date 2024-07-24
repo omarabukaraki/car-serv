@@ -15,6 +15,8 @@ const Testimonial = () => {
           return <TestimonialCart img={img} />;
         })}
       </div>
+      <div className="h-32"></div>
+
     </div>
   );
 };

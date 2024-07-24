@@ -1,0 +1,5 @@
+.footer {
+        background: linear-gradient(rgba(0, 0, 0, .9), rgba(0, 0, 0, .9)), url(./assets/img/carousel-bg-1.jpg) center center no-repeat;
+        background-size: cover;
+    }
+    
