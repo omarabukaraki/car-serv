@@ -3,7 +3,7 @@ import * as Icon from 'react-bootstrap-icons';
 
 const AboutCart = (props) => {
   return (
-        <div className='flex bg-gray-200 px-5 py-10 m-2 w-80'>
+        <div className='flex bg-gray-200 px-5 py-10 m-2 w-80 '>
         {props.icon}
         <div className='ml-4'>
               <h3 className='font-bold text-lg text-blue-950'>{props.title}</h3>
