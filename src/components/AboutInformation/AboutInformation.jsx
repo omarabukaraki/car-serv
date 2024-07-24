@@ -16,7 +16,7 @@ const AboutInformation = () => {
       </div>
       <div className="flex flex-col justify-between w-1/3 sm:min-w-96 min-w-64 lg:sm:mt-0 mt-8  ">
         <p className="font-bold text-red-600">// ABOUT US //</p>
-        <h1 className="text-4xl font-bold text-blue-950 my-2">
+        <h1 className="sm:text-4xl text-2xl font-bold text-blue-950 my-2">
           <span className="text-red-600">CarServ</span> Is The Best Place For
           Your Auto Care
         </h1>
