@@ -9,7 +9,7 @@ export {default as SectionItem} from './SectionItem';
 export {default as ServicesCheckComp} from './ServicesCheckComp';
 export {default as ServicesBook} from './ServicesBook';
 export {default as ServicesOur} from './ServicesOur';
-
+export {default as TechniciansCart} from './TechniciansCart';
 
 
 
