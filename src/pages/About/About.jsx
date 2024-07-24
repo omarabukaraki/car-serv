@@ -10,6 +10,7 @@ const About = () => {
  <>
     <AboutUs />
     <Technicians />
+    <div className='mb-16'></div>
  </>
 
   )
